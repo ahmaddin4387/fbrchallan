@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 542.0799999999999 898.0921052631579 850.08" style="max-height: 500px" width="898.0921052631579" height="850.08">
+  <defs>
+    <style type="text/css">
+.g0{
+fill: #FFF;
+}
+.g1{
+fill: none;
+stroke: #000;
+stroke-width: 2.932;
+stroke-linejoin: round;
+}
+.g2{
+fill: none;
+stroke: #000;
+stroke-width: 1.466;
+stroke-miterlimit: 10;
+}
+.g3{
+fill: #000;
+}
+</style>
+  </defs>
+  <path style="fill: none;" class="g0" d="M0 0H935V1430H0Z"/>
+  <path class="g1" d="M422.3 615.9H534.9"/>
+  <path class="g2" d="M508 660.7H852m-729.2 0H446.2M174.7 730.6H446.2m15.6 139.3H848.3M461.8 901.4H848.3M461.8 935.2H848.3M177.6 698.5H850.5M461.8 965.1H848.3m-386.5 35.2H848.3m-656.7 38.1H509.5m128.9 1.8H848.3m-673.6 81.4H446.2m96.3 0H813.8m-431 57.2H769.3m-386.5 28.4H769.3m-663.7 64.9H212.5"/>
+  <path class="g2" d="M382.8 1256H769.3"/>
+</svg>
